@@ -1,1 +1,5 @@
+theme: jekyll-theme-cayman
+！git add _config.yml
+git commit -m "Change theme to Cayman"
+git push origin master
 
